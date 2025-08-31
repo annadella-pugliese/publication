@@ -17,7 +17,7 @@ As part of the author's training and prior experience, the short film **"El Bomb
 - **Best Comedy** – Global Film Exhibition
 - **Best Actor** – Sittannavasal International Film Festival
 
-You can watch the trailer [here]https://www.youtube.com/watch?v=xiZx5rCjLk0) .
+You can watch the trailer [here](https://www.youtube.com/watch?v=xiZx5rCjLk0) .
 
 #
 🎯 Project Objectives
@@ -49,6 +49,7 @@ The project is based on eight strategic pillars for its financing and scalabilit
 - **Email** : [annadellapugliese@gmail.com](mailto:annadellapugliese@gmail.com)
 - **ORCID** : [0009-0003-7831-0885](https://orcid.org/0009-0003-7831-0885)
 - **GitHub** : [annadella -pugliese](https://github.com/annadella-pugliese)
+- **DOI** : [10.5281/zenodo.16991601](https://doi.org/10.5281/zenodo.16991601)
 
 #
 📜 License
