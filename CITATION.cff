@@ -1,27 +1,41 @@
 cff-version: 1.2.0
+title: "ECO Reels: Raising Green Awareness Through Ecotourism in the US"
 message: "Please cite this work using the DOI: https://doi.org/10.5281/zenodo.16991601"
 type: report
-title: "ECO Reels: Raising Green Awareness Through Ecotourism in the US"
 authors:
   - given-names: Annadella
     family-names: Pugliese Lares
-    orcid: "https://orcid.org/0009-0003-7831-0885"
+    affiliation: Social communicator and independent filmmaker
     email: annadellapugliese@gmail.com
-abstract: "ECO Reels is a dynamic initiative designed to promote sustainable ecotourism across the United States, with Colorado as its pilot stage. The project leverages narrative short films enhanced with artificial intelligence to showcase natural beauty, cultural diversity, and environmental conservation. It integrates the 'Your Green Footprint' program, transforming tourists into active participants in ecological restoration through symbolic planting of native species."
-keywords: 
-  - "Ecotourism"
-  - "Sustainable Tourism"
-  - "Environmental Conservation"
-  - "Artificial Intelligence"
-  - "Short Films"
-  - "United States"
-  - "Colorado"
-  - "National Parks"
-  - "Ecological Restoration"
-  - "Carbon Capture"
-  - "Your Green Footprint"
-doi: 10.5281/zenodo.16991601
-date-released: 2025-08-29
+    orcid: https://orcid.org/0009-0003-7831-0885
+DOI: https://doi.org/10.5281/zenodo.16991601
+repository-code: https://github.com/annadella-pugliese/publication
+abstract: >
+  This first official release marks the publication of the
+  complete project proposal for ECO Reels, a dynamic
+  initiative designed to promote sustainable ecotourism
+  across the United States, with Colorado as its pilot
+  stage. The project leverages the power of narrative short
+  films enhanced with artificial intelligence to showcase
+  the natural beauty, cultural diversity, and critical
+  importance of environmental conservation. A key innovative
+  component is the integration of the 'Your Green Footprint'
+  program, which transforms tourists into active
+  participants in ecological restoration through the
+  planting of approved native species.
+keywords:
+  - ecotourism
+  - sustainable tourism
+  - environmental conservation
+  - artificial intelligence
+  - short films
+  - United States
+  - Colorado
+  - national parks
+  - ecological restoration
+  - community engagement
+  - carbon capture
+  - Your Green Footprint
 license: CC-BY-NC-4.0
-repository-code: "https://github.com/annadella-pugliese/publication"
-url: "https://doi.org/10.5281/zenodo.16991601"
+date-released: 2025-08-29
+
