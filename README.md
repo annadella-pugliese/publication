@@ -13,9 +13,9 @@ The project integrates the **"Your Green Footprint"** program, which turns touri
 ### Publication Metadata
 - **Title**: ECO Reels: Raising Green Awareness Through Ecotourism in the US
 - **Author**: Annadella Pugliese Lares
-- **Year**: 2024
+- **Year**: 2025
 - **License**: Creative Commons Attribution-NonCommercial 4.0 International
-- **Repository**: https://github.com/annadella-pugliese/project
+- **Repository**: https://github.com/annadella-pugliese/publication
 - **PDF**: [Download project proposal](eco_reels_raising_green_awareness_through_ecotourism_in_the_us.pdf)
 
 ## 🎬 Reference Short Film: "The Light Bulb"
