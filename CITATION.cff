@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: "ECO Reels: Raising Green Awareness Through Ecotourism in the US"
-message: "Please cite this work using the DOI: https://doi.org/10.5281/zenodo.16991601"
+message: "If you use this work, please cite it using the metadata from this file"
 type: report
 authors:
   - given-names: Annadella
@@ -8,7 +8,6 @@ authors:
     affiliation: Social communicator and independent filmmaker
     email: annadellapugliese@gmail.com
     orcid: https://orcid.org/0009-0003-7831-0885
-DOI: https://doi.org/10.5281/zenodo.16991601
 repository-code: https://github.com/annadella-pugliese/publication
 abstract: >
   This first official release marks the publication of the
