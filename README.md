@@ -49,7 +49,7 @@ The project is based on eight strategic pillars for its financing and scalabilit
 - **Email** : [annadellapugliese@gmail.com](mailto:annadellapugliese@gmail.com)
 - **ORCID** : [0009-0003-7831-0885](https://orcid.org/0009-0003-7831-0885)
 - **GitHub** : [annadella -pugliese](https://github.com/annadella-pugliese)
-_ **DOI** : [10.5281/zenodo.16991601](https://doi.org/10.5281/zenodo.16991601)
+- **DOI** : [10.5281/zenodo.16991601](https://doi.org/10.5281/zenodo.16991601)
 
 #
 📜 License
@@ -66,5 +66,6 @@ If you're interested in collaborating, sponsoring, or learning more about the pr
 #
 #
 # “Cinema is not an art that films life; cinema is between art and life” 
+
 
 **— Jean-Luc Godard**
