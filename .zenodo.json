@@ -1,0 +1,40 @@
+{
+  "upload_type": "publication",
+  "publication_type": "article",
+  "title": "ECO Reels: Raising Green Awareness Through Ecotourism in the US",
+  "description": "ECO Reels: Raising Green Awareness Through Ecotourism in the US\nThis first official release marks the publication of the complete project proposal for ECO Reels, a dynamic initiative designed to promote sustainable ecotourism across the United States, with Colorado as its pilot stage.\nThe project leverages the power of narrative short films enhanced with artificial intelligence to showcase the natural beauty, cultural diversity, and critical importance of environmental conservation. A key innovative component is the integration of the \"Your Green Footprint\" program, which transforms tourists into active participants in ecological restoration through the planting of authorized native species.\nThis document outlines the project's social objectives, economic benefits, and a detailed monetization strategy structured around eight strategic pillars, positioning it as a viable, high-impact venture.",
+  "creators": [
+    {
+      "name": "Pugliese Lares, Annadella",
+      "affiliation": "Social communicator and independent filmmaker",
+      "orcid": "https://orcid.org/0009-0003-7831-0885",
+      "email": "annadellapugliese@gmail.com"
+    }
+  ],
+  "keywords": [
+    "ecotourism",
+    "sustainable tourism",
+    "environmental conservation",
+    "artificial intelligence",
+    "short films",
+    "United States",
+    "Colorado",
+    "national parks",
+    "ecological restoration",
+    "community engagement",
+    "carbon capture",
+    "Your Green Footprint"
+  ],
+  "license": {
+    "id": "CC-BY-NC-4.0"
+  },
+  "publication_date": "2025-08-29",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/annadella-pugliese/publication",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
