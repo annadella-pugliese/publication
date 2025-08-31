@@ -17,7 +17,7 @@ As part of the author's training and prior experience, the short film **"El Bomb
 - **Best Comedy** – Global Film Exhibition
 - **Best Actor** – Sittannavasal International Film Festival
 
-You can watch the trailer [here]https://www.youtube.com/watch?v=xiZx5rCjLk0) .
+You can watch the trailer [here](https://www.youtube.com/watch?v=xiZx5rCjIx0)
 
 #
 🎯 Project Objectives
@@ -69,3 +69,4 @@ If you're interested in collaborating, sponsoring, or learning more about the pr
 
 
 **— Jean-Luc Godard**
+
